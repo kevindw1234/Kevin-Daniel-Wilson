@@ -2,6 +2,9 @@ Hi,I'm Kevin Daniel Wilson
 
 - Working as a Junior Cloud Engineer
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevindw1234)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - Cloud platform
         -Aws cloud
           -Ec2
