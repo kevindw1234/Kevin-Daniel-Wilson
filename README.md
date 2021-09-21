@@ -1,8 +1,10 @@
 ### Hi there 👋, my name is Kevin Daniel Wilson 
 ####  Working as a Junior Cloud Engineer
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevindw1234&show_icons=true&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevindw1234)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 - Cloud platform
@@ -29,6 +31,9 @@
         - 24*7  
         - Nagios
         - Cloud Watch
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevindw1234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Connect with me:
 
