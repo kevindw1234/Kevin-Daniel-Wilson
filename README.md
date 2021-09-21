@@ -2,9 +2,16 @@
 ####  Working as a Junior Cloud Engineer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevindw1234&show_icons=true&theme=radical)
+## 🚀 Languages and Tools:
 
-
-
+&nbsp;
+   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
+   <a href="https://cloud.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>
+   <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+   <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>
 
 
 - Cloud platform
