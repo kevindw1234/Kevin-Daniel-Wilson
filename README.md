@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Kevin Daniel Wilson 
-####  Working as a Junior Cloud Engineer
+####  Working as a Devops-Cloud Engineer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevindw1234&show_icons=true&theme=radical)
 ## 🚀 Languages and Tools:
@@ -28,8 +28,12 @@
           -Route53
           -AMI
           -IAM
+      Azure Cloud
       
-
+-CI/CD
+      Azure Devops 
+      Jenkins
+      
 -  Operating Systems:
         - RedHat Linux Release
         - Ubuntu
